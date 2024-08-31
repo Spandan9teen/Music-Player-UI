@@ -1,0 +1,14 @@
+Design Tool used is Figma.
+
+This music player interface offers a clean, intuitive, and visually appealing design, prioritizing user experience and functionality. The layout is well-organized, with clear navigation and easy access to key features.
+
+Key Features:
+
+Navigation: The left sidebar provides easy navigation between different sections, including Library, Browse, Artists, Radio, and My Music.
+Artist Spotlight: The hero section prominently displays a featured artist of the week, along with their latest releases and a brief bio.
+Search Functionality: The search bar allows users to quickly find specific songs, artists, or albums.
+Personalized Recommendations: The "Popular Artists" and "Recently Played" sections offer personalized recommendations based on the user's listening history.
+Music Library: Users can easily access their personal music library, including favorites, downloads, and recently played tracks.
+Now Playing: The "Now Playing" section displays the currently playing track, along with album art, artist information, and playback controls.
+Playback Controls: The intuitive playback controls allow users to play, pause, skip tracks, adjust volume, and shuffle or repeat songs.
+Visual Aesthetic: The design incorporates a modern and visually appealing aesthetic, with clean lines, contrasting colors, and high-quality images.
